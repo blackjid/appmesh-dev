@@ -28,7 +28,7 @@ spec:
     hosts:
       - "*"
     # App Mesh reference
-    meshName: "appmesh"
+    meshName: "appmesh3"
     # App Mesh retry policy (optional)
     retries:
       attempts: 3

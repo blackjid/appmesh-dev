@@ -12,5 +12,5 @@ spec:
   values:
     mesh:
       create: true
-      name: "appmesh"
+      name: "appmesh3"
       discovery: dns
